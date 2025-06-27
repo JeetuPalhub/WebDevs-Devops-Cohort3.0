@@ -171,18 +171,21 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jeetu-pal-683ba72a0/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/JeetuPalhub" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://x.com/Jeetupal31" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white" alt="X / Twitter" />
+    <img src="https://img.shields.io/badge/X(Twitter)-000000?style=for-the-badge&logo=twitter&logoColor=white" alt="X / Twitter" />
   </a>
   <a href="https://peerlist.io/jeetupal31" target="_blank">
-    <img src="https://img.shields.io/badge/Peerlist-121212?style=for-the-badge&logoColor=white&labelColor=121212&logo=peerlist" alt="Peerlist" />
+    <img src="https://img.shields.io/badge/Peerlist-%23121212?style=for-the-badge&logo=peerlist&logoColor=white" alt="Peerlist" />
   </a>
   <a href="mailto:jeetupal.pal31@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://discord.com/users/jeetupal31" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-jeetupal31-%237289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
 </p>
