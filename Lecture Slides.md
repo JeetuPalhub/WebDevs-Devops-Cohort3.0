@@ -185,7 +185,7 @@
   <a href="mailto:jeetupal.pal31@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://discord.com/users/jeetupal31" target="_blank">
+  <a href="https://discord.com/users/1202345957216231446" target="_blank">
     <img src="https://img.shields.io/badge/Discord-jeetupal31-%237289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
 </p>
