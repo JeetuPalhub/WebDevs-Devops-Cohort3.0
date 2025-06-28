@@ -180,7 +180,7 @@
     <img src="https://img.shields.io/badge/X(Twitter)-000000?style=for-the-badge&logo=twitter&logoColor=white" alt="X / Twitter" />
   </a>
   <a href="https://peerlist.io/jeetupal31" target="_blank">
-    <img src="https://img.shields.io/badge/Peerlist-%23121212?style=for-the-badge&logo=peerlist&logoColor=white" alt="Peerlist" />
+    <img src="https://img.shields.io/badge/Peerlist-%2300C853?style=for-the-badge&logo=peerlist&logoColor=white" alt="Peerlist" />
   </a>
   <a href="mailto:jeetupal.pal31@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
