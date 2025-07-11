@@ -7,7 +7,7 @@ This repository is your ultimate guide to mastering:
 - 📝 **DevOps**: Get hands-on with Docker, Kubernetes, CI/CD pipelines, and more
 - ✅ **Assignments**: Assignments of Cohort 3.0 solutions with in-depth explanations
 
-Ready to dive in? Here’s how to get started:
+Ready to dive in? Here’s how to get started:-
 
 ### 🔥 **Clone the Repository and Begin Your Journey! 💫**
 
